@@ -1,0 +1,14 @@
+Chemistry, P1, 04 Jun, AM
+Chemistry, P2, 15 May, AM
+Chemistry, P3V3, 02 May, AM
+
+Computer, P1, 08 May, PM
+Computer, P2, 17 May, PM,
+
+Maths, P1, 02 May, PM
+Maths, S1(P5), 13 May, PM
+
+Physics, P1, 06 Jun, AM
+Physics, P2, 16 May, AM
+Physics, P3V3, 30 Apr, AM
+
